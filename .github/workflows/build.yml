@@ -23,4 +23,4 @@ jobs:
         if: endsWith(github.ref, '/main') && github.event_name == 'push'
         run: ./scripts/publish.sh
         env:
-          NPM_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+          NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
