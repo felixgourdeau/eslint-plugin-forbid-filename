@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-forbid-filename",
   "version": "1.0.0",
-  "author": "felix.gourdeau@gmail.com",
+  "author": "Felix Gourdeau",
   "license": "MIT",
   "homepage": "https://github.com/felixgourdeau/eslint-plugin-forbid-filename",
   "repository": {
